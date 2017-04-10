@@ -1,0 +1,23 @@
+<Texts>
+    <Text key="title">Web site creator</Text>
+
+    <Text key="menuFile">File</Text>
+
+    <Text key="actionNewProject">New</Text>
+    <Text key="actionOpenProject">Open</Text>
+    <Text key="actionSaveProject">Save</Text>
+    <Text key="actionGenerateProject">Generate</Text>
+
+
+    <Text key="lastProjectLoadFailedTitle">Last project can't be open</Text>
+    <Text key="lastProjectLoadFailedMessage">Last project {0} failed to load.</Text>
+
+    <Text key="actionNewProjectDirectoryNotEmptyTitle">Directory not empty !</Text>
+    <Text key="actionNewProjectDirectoryNotEmptyMessage">
+        The directory {0} is not empty !\n
+        Do you want use it anyway ? (The content will be deleted)
+    </Text>
+
+    <Text key="actionNewProjectAskName">Project name : </Text>
+    <Text key="actionNewProjectDefaultName">project</Text>
+</Texts>
